@@ -1,0 +1,48 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'Source.cpp')
+  C:\OpenGL\GLFW\include\GLFW\glfw3.h(123,1):
+  see previous definition of 'APIENTRY'
+  
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(15,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(106,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(111,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(111,6): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(111,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(114,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(115,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(116,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(124,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(125,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(129,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(156,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(157,1): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(213,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(245,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(298,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(333,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(335,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(340,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(352,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(363,2): warning C4551: function call missing argument list
+C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\OpenGLSample\Source.cpp(394,36): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenGLSample.vcxproj -> C:\Users\vivia\OneDrive - SNHU\SNHU\Comp Graphic and Visulization\Module 8\Module 8\Debug\Collision-based 2D animation.exe
